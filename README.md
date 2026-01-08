@@ -2,6 +2,11 @@
   <tr>
     <td>
       <h1>Java Tutorial Repository</h1>
+      <!-- Badges -->
+      <p>
+        <img src="https://img.shields.io/badge/Java-25.0.1-007396?logo=OpenJDK&logoColor=white" alt="Java 25.0.1"/>
+        <img src="https://img.shields.io/badge/Oracle-JDK_Full-F80000?logo=oracle&logoColor=white" alt="Oracle JDK"/>
+      </p>
     </td>
     <td>
       <img src="https://github.com/user-attachments/assets/72d68788-e3f0-4465-9dbc-32860f201186" alt="vipo_happy" width="100"/>
@@ -20,7 +25,7 @@
 
 ---
 
-## 🚀 Why This Repo?
+## 🚀 About this repository
 This repository is my personal **learning journey** with Java. I’m documenting everything I learn, from simple loops to more advanced concepts like OOP and file handling.  
 
 ---
