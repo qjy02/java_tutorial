@@ -42,6 +42,10 @@ public class Main {
         //SlotMachine.show();
         //OOP.show();
         //Constructors.show();
-        Static.show();
+        //Static.show();
+        //Inheritance.show();
+        //Super.show();
+        //Abstraction.show();
+        Interface.show();
     }
 }
