@@ -1,0 +1,3 @@
+Hello, PrintWriter!
+12345
+Pi approx: 3.14
