@@ -56,6 +56,21 @@ public class Main {
         //FileWriterDemo.show();
         //BufferedWriterDemo.show();
         //PrintWriterDemo.show();
-        FileOutputStreamDemo.show();
+        //FileOutputStreamDemo.show();
+        //BufferedReaderDemo.show();
+        //FileInputStreamDemo.show();
+        //RandomAccessFileDemo.show();
+        MusicPlayer.show();
+        //HangmanGame.show();
+        //DateandTimes.show();
+        //AnonymousClasses.show();
+        //TimerTasks.show();
+        //CountdownTimer.show();
+        //Generics.show();
+        //HashMaps.show();
+        //Enums.show();
+        //Threading.show();
+        //Multithreading.show();
+        //AlarmClock.show();
     }
 }
